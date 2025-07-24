@@ -1,6 +1,2 @@
-uniteshop-liveupdater/
-├── latest/
-│   ├── UniteShopBot.exe
-│   └── version.txt
-
 1.0.1
+
